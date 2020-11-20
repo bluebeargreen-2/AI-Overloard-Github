@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@types/node": "^14.14.8",
+    "axios": "^0.20.0",
+    "common-tags": "^1.8.0",
+    "discord-akairo": "github:1Computer1/discord-akairo",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "ms": "^2.1.2",
+    "spookvooperapi": "^1.2.0",
+    "sqlite": "^4.0.17",
+    "sqlite3": "^5.0.0",
+    "typeorm": "^0.2.29",
+    "zlib-sync": "^0.1.7"
+  },
+  "name": "spookvoop-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
