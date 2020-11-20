@@ -18,6 +18,8 @@ This is my Multiuse TouchScript bot that is using the SpookVoopAPI
 
 5. type the command "**npm install**" You might get some errors but this is fine
 
-6. Copy and Past this command: "**tsc**"
+6. Go to the folder src, then click on Config.ts and follow the steps there
 
-7. To run the bot now you will run this command: "**node dist\bot.js**"
+7. Copy and Past this command: "**tsc**"
+
+8. To run the bot now you will run this command: "**node dist\bot.js**"
