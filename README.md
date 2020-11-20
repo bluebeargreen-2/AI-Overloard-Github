@@ -16,6 +16,8 @@ This is my Multiuse TouchScript bot that is using the SpookVoopAPI
 4. on your keyboard do the hotkey "Ctrl + `"
 , This will open a therminal, Dont be scared! I will walk you through this
 
-5. Copy and Past this command: "**tsc**"
+5. type the command "**npm install**" You might get some errors but this is fine
 
-6. To run the bot now you will run this command: "**node dist\bot.js**"
+6. Copy and Past this command: "**tsc**"
+
+7. To run the bot now you will run this command: "**node dist\bot.js**"
