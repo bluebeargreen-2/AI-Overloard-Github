@@ -3,7 +3,7 @@
     "@types/node": "^14.14.8",
     "axios": "^0.20.0",
     "common-tags": "^1.8.0",
-    "discord-akairo": "github:1Computer1/discord-akairo",
+    "discord-akairo": "github:discord-akairo/discord-akairo",
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "ms": "^2.1.2",
@@ -11,6 +11,7 @@
     "sqlite": "^4.0.17",
     "sqlite3": "^5.0.0",
     "typeorm": "^0.2.29",
+    "typescript": "^4.1.2",
     "zlib-sync": "^0.1.7"
   },
   "name": "spookvoop-bot",
